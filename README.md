@@ -6,21 +6,21 @@ Colormaps for matplotlib. Made with electron transport measurements in mind.
 All colormaps also have the reverse version avaialble in the format \[name]\_r
 
 ### Lightning
-![Lightning](lightning.png)
+![Lightning](map_examples/lightning.png)
 
 ### Ghost
-![ghost](ghost.png)
+![ghost](map_examples/ghost.png)
 
 ### Icefire
-![fireice](fireice.png)
+![fireice](map_examples/fireice.png)
 
 
 ### Frigid
-![frigid](frigid.png)
+![frigid](map_examples/frigid.png)
 
 ### Poison
-![poison](poison.png)
+![poison](map_examples/poison.png)
 
 ### Wraith
 Needs updating. Not a good gradient.
-![wraith](wraith.png)
+![wraith](map_examples/wraith.png)
